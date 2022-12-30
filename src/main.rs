@@ -5,14 +5,14 @@ use colored::*;
 
 fn main() {
 
-    println!("Welcome to the guessing game!");
+    println!("{}", "Welcome to the guessing game!".on_bright_blue());
 
     let secret = rand::thread_rng().gen_range(1..101);
 
-    println!("The secret number is {}", secret);
+    println!("The secret number is {}", secret.green());
 
     loop {
-        println!("Please input your guess.");
+        println!("{}", "Please input your guess.".on_blue());
     
         let mut guess = String::new();
     

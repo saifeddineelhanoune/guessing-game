@@ -7,4 +7,7 @@
     <li>Add a limit to the number of guesses the user is allowed to make. You can do this by using a counter variable that increments each time the user makes a guess, and exiting the loop when the counter reaches a certain value<li>
     <li>Add some visual feedback to the game by using ASCII art or other graphics to make it more visually appealing.</li>
     <li>Add some additional features to the game, such as a hint system that gives the user a hint if they are struggling to guess the correct number.</li>
+
 </ol>
+
+<p>With just taping the random number wrtied on the screen you'll win it's just an concept of <span style =  "color : red;">learning</span></p>
