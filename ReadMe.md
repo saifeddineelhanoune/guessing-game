@@ -10,4 +10,4 @@
 
 </ol>
 
-<p>With just taping the random number wrtied on the screen you'll win it's just an concept of <span style =  "color : red;">learning</span></p>
+<p>With just taping the random number wrtied on the screen you'll win it's just an concept of learning</p>
